@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NeOMafHdkRaA5UEXU2u53dwU4xtNmVm1/OAOM7eOooKkEZ9EwLz7iV6mVIhE4r3UZyGM1yw8/hP5/50yhfALJg==",
+  "dgSpecHash": "YUESnM40kRpH7bVEPjpEXAsSGVmrJrBifcs8oGbq7YDT06d6b1q9yqYcCHTB90MzrudKZce6Sj6jk806/qWA1g==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj",
+  "projectFilePath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
       "projectName": "BlogAPI.BusinessLogic",
-      "projectPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\Kigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kigo\\AppData\\Roaming\\NuGet\\NuGet.Config",

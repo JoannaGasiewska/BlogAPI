@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj": {}
+    "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj": {
+    "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
         "projectName": "BlogAPI.BusinessLogic",
-        "projectPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Kigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj": {
+    "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj",
+        "projectUniqueName": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj",
         "projectName": "BlogAPI.IntegrationTests",
-        "projectPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj",
+        "projectPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.IntegrationTests\\BlogAPI.IntegrationTests.csproj",
         "packagesPath": "C:\\Users\\Kigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.IntegrationTests\\obj\\",
+        "outputPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.IntegrationTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,8 +78,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj": {
-                "projectPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj"
+              "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj"
               }
             }
           }

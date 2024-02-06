@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.UnitTests\\BlogAPI.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.UnitTests\\BlogAPI.UnitTests.csproj",
       "projectName": "BlogAPI.UnitTests",
-      "projectPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.UnitTests\\BlogAPI.UnitTests.csproj",
+      "projectPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.UnitTests\\BlogAPI.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Kigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj": {
-              "projectPath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj"
+            "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj"
             }
           }
         }

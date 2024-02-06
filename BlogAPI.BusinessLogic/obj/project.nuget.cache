@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "03V+491BuSIG9LOQ6vhsEE0XvyIazv+x39Ctlkjp2QY/0e/FXp+O+BCCP+ejxDW0yNwvs9bSgqN/6Th3trO+mA==",
+  "dgSpecHash": "rOvfvyA/uZ29hUQRFDjxLLUP6YsJuV2FEvyl3r9CszzDD7YISObR1VSwt9Zd8SstU1IFsf2yjfrC4Yf6wx7uvQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\BlogAPIProject\\BlogAPIProject\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\Kigo\\Documents\\GitHub\\BlogAPI\\BlogAPI.BusinessLogic\\BlogAPI.BusinessLogic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
