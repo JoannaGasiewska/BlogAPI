@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=132a3be3_002D3893_002D4a83_002Da395_002Db194cb295e76/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PostTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::BDA0ED13-57AD-401E-8FCE-7D4E57E77EF2::net8.0::BlogAPI.UnitTests.PostTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::B1EB672E-7B33-487C-B083-B4F718CC572F::net8.0::BlogAPI.IntegrationTests.CreatePostCommandTests.CreatePostCommand&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::B1EB672E-7B33-487C-B083-B4F718CC572F::net8.0::BlogAPI.IntegrationTests.CreatePostCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::B1EB672E-7B33-487C-B083-B4F718CC572F::net8.0::BlogAPI.IntegrationTests.GetPostQueryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

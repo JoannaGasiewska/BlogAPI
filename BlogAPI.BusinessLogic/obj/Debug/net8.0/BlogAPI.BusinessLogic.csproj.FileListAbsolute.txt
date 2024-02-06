@@ -1,0 +1,12 @@
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\bin\Debug\net8.0\BlogAPI.BusinessLogic.deps.json
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\bin\Debug\net8.0\BlogAPI.BusinessLogic.dll
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\bin\Debug\net8.0\BlogAPI.BusinessLogic.pdb
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\BlogAPI.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\BlogAPI.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\BlogAPI.BusinessLogic.AssemblyInfo.cs
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\BlogAPI.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\BlogAPI.BusinessLogic.dll
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\refint\BlogAPI.BusinessLogic.dll
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\BlogAPI.BusinessLogic.pdb
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\ref\BlogAPI.BusinessLogic.dll
+C:\Users\joanna.gasiewska\source\repos\BlogAPI.BusinessLogic\obj\Debug\net8.0\BlogAPI.BusinessLogic.csproj.AssemblyReference.cache
